@@ -2,7 +2,7 @@
 
 ### Day 0: January 1, 2021
 
-**Today's Progress**: Began work on personal site 
+**Today's Progress**: Began work on my personal site 
 
 **Thoughts:** 1 down, 99 to go
 
@@ -10,8 +10,16 @@
 
 ### Day 1: January 2, 2021
 
-**Today's Progress**: Added more to personal site 
+**Today's Progress**: Added more to my personal site 
 
 **Thoughts:** Look forward to adding more tomorrow
+
+**Link to work:** [Personal Site](https://mjrizzo22.github.io)
+
+### Day 2: January 3, 2021
+
+**Today's Progress**: Added a link-tree to my personal site 
+
+**Thoughts:** I can feel a new habit forming
 
 **Link to work:** [Personal Site](https://mjrizzo22.github.io)
