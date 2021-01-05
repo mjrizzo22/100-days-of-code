@@ -23,3 +23,11 @@
 **Thoughts:** I can feel a new habit forming
 
 **Link to work:** [Personal Site](https://mjrizzo22.github.io)
+
+### Day 3: January 4, 2021
+
+**Today's Progress**: Played around with Flexbox 
+
+**Thoughts:** 
+
+**Link to work:** [Personal Site](https://mjrizzo22.github.io)
