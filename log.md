@@ -31,3 +31,11 @@
 **Thoughts:** 
 
 **Link to work:** [Personal Site](https://mjrizzo22.github.io)
+
+### Day 4: January 5, 2021
+
+**Today's Progress**: Read up on [Pure Data](https://puredata.info/)
+
+**Thoughts:** Pd is a cool rapid prototyping tool and instrument
+
+**Link to work:** n/a for now; more to come
