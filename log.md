@@ -39,3 +39,19 @@
 **Thoughts:** Pd is a cool rapid prototyping tool and instrument
 
 **Link to work:** n/a for now; more to come
+
+### MISSED: January 6, 2021
+
+**Today's Progress**: n/a
+
+**Thoughts:** Today was a bit crazy, decided to wait
+
+**Link to work:** n/a 
+
+### Day 5: January 7, 2021
+
+**Today's Progress**: Began using Bootstrap 4 
+
+**Thoughts:** Making up for yesterday, I spent two hours coding
+
+**Link to work:** [Personal Site](https://mjrizzo22.github.io)
