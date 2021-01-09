@@ -55,3 +55,11 @@
 **Thoughts:** Making up for yesterday, I spent two hours coding
 
 **Link to work:** [Personal Site](https://mjrizzo22.github.io)
+
+### Day 6: January 8, 2021
+
+**Today's Progress**: More Bootstrap
+
+**Thoughts:** Getting on the grid 
+
+**Link to work:** [Personal Site](https://mjrizzo22.github.io)
