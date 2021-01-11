@@ -63,3 +63,19 @@
 **Thoughts:** Getting on the grid 
 
 **Link to work:** [Personal Site](https://mjrizzo22.github.io)
+
+### MISSED: January 9, 2021
+
+**Today's Progress**: n/a
+
+**Thoughts:** 
+
+**Link to work:** n/a 
+
+### Day 7: January 10, 2021
+
+**Today's Progress**: Upload my vimrc and zshrc to github
+
+**Thoughts:** Preparing for more projects
+
+**Link to work:** [dotfiles](https://github.com/mjrizzo22/dotfiles)
