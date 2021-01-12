@@ -79,3 +79,11 @@
 **Thoughts:** Preparing for more projects
 
 **Link to work:** [dotfiles](https://github.com/mjrizzo22/dotfiles)
+
+### Day 8: January 10, 2021
+
+**Today's Progress**: almost missed it; fixed .vimrc
+
+**Thoughts:** Preparing for more projects
+
+**Link to work:** [dotfiles](https://github.com/mjrizzo22/dotfiles))
