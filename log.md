@@ -95,3 +95,11 @@
 **Thoughts:** 
 
 **Link to work:** 
+
+### Day 10: January 13, 2021
+
+**Today's Progress**: Python Lotto Checker 
+
+**Thoughts:** There's a lot of different ways to approach storing the ticket and winner. I plan on sketching and testing ideas in Python and then writing a the best optimization w/r/t speed and size.
+
+**Link to work:** [lotto check](https://github.com/mjrizzo22/lottoCheck)
