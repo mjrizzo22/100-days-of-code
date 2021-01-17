@@ -119,3 +119,11 @@
 **Thoughts:** Multiple input options I need to consider, I may also want to add a OpenCV component to read tickets...
 
 **Link to work:** [lotto check](https://github.com/mjrizzo22/lottoCheck)
+
+### Day 13: January 16, 2021
+
+**Today's Progress**: Continued with Python Lotto Checker, modified a web-scrapping tutorial
+
+**Thoughts:** 
+
+**Link to work:** [lotto check](https://github.com/mjrizzo22/lottoCheck)
