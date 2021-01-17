@@ -124,6 +124,6 @@
 
 **Today's Progress**: Continued with Python Lotto Checker, modified a web-scrapping tutorial
 
-**Thoughts:** 
+**Thoughts:** Here's the [tutorial](https://www.thepythoncode.com/article/download-web-page-images-python)
 
 **Link to work:** [lotto check](https://github.com/mjrizzo22/lottoCheck)
