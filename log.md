@@ -127,3 +127,19 @@
 **Thoughts:** Here's the [tutorial](https://www.thepythoncode.com/article/download-web-page-images-python)
 
 **Link to work:** [lotto check](https://github.com/mjrizzo22/lottoCheck)
+
+### MISSED: January 17, 2021
+
+**Today's Progress**: n/a
+
+**Thoughts:** 
+
+**Link to work:** n/a
+
+### Day 14: January 18, 2021
+
+**Today's Progress**: Continued with Python Lotto Checker
+
+**Thoughts:** I should work on making my code less disposable, more reusable
+
+**Link to work:** [lotto check](https://github.com/mjrizzo22/lottoCheck)
