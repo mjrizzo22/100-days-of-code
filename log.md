@@ -143,3 +143,11 @@
 **Thoughts:** I should work on making my code less disposable, more reusable
 
 **Link to work:** [lotto check](https://github.com/mjrizzo22/lottoCheck)
+
+### Day 15: January 19, 2021
+
+**Today's Progress**: Continued with Python Lotto Checker
+
+**Thoughts:** Put in corrected win function
+
+**Link to work:** [lotto check](https://github.com/mjrizzo22/lottoCheck)
