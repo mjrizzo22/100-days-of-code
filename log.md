@@ -151,3 +151,11 @@
 **Thoughts:** Put in corrected win function
 
 **Link to work:** [lotto check](https://github.com/mjrizzo22/lottoCheck)
+
+### Day 16: January 20, 2021
+
+**Today's Progress**: Continued with Python Lotto Checker
+
+**Thoughts:** Finished .csv check
+
+**Link to work:** [lotto check](https://github.com/mjrizzo22/lottoCheck)
