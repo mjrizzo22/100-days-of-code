@@ -159,3 +159,11 @@
 **Thoughts:** Finished .csv check
 
 **Link to work:** [lotto check](https://github.com/mjrizzo22/lottoCheck)
+
+### Day 17: January 21, 2021
+
+**Today's Progress**: Python Lotto Checker
+
+**Thoughts:** Added a README.md
+
+**Link to work:** [lotto check](https://github.com/mjrizzo22/lottoCheck)
