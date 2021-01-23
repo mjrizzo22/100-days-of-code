@@ -167,3 +167,15 @@
 **Thoughts:** Added a README.md
 
 **Link to work:** [lotto check](https://github.com/mjrizzo22/lottoCheck)
+
+### Day 18: January 21, 2021
+
+**Today's Progress**: Pd PolySeq, Python Lotto Checker
+
+**Thoughts:** Started work on a sequencer idea, Completed lottoCheck.py documentation
+
+**Link to work:** 
+
+[PolySeq](https://github.com/mjrizzo22/PolySeq)
+
+[lotto check](https://github.com/mjrizzo22/lottoCheck)
