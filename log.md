@@ -168,7 +168,7 @@
 
 **Link to work:** [lotto check](https://github.com/mjrizzo22/lottoCheck)
 
-### Day 18: January 21, 2021
+### Day 18: January 22, 2021
 
 **Today's Progress**: Pd PolySeq, Python Lotto Checker
 
@@ -179,3 +179,29 @@
 [PolySeq](https://github.com/mjrizzo22/PolySeq)
 
 [lotto check](https://github.com/mjrizzo22/lottoCheck)
+
+### MISSED: January 23, 2021
+
+**Today's Progress**: n/a
+
+**Thoughts:** Today was a bit crazy, decided to wait
+
+**Link to work:** n/a 
+
+### MISSED: January 24, 2021
+
+**Today's Progress**: n/a
+
+**Thoughts:** Today was a bit crazy, decided to wait
+
+**Link to work:** n/a 
+
+### Day 19: January 25, 2021
+
+**Today's Progress**: Pd PolySeq
+
+**Thoughts:** Man there is a lot in circuit design to learn w/r/t Pure Data
+
+**Link to work:** 
+
+[PolySeq](https://github.com/mjrizzo22/PolySeq)
