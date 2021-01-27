@@ -205,3 +205,13 @@
 **Link to work:** 
 
 [PolySeq](https://github.com/mjrizzo22/PolySeq)
+
+### Day 20: January 26, 2021
+
+**Today's Progress**: Pd PolySeq
+
+**Thoughts:** Figured out how to add the unquantized stepping of the MakeNoise '0-Ctrl', now to add a variable way to "quantize", possibly working a percentage model like the Native Instruments % options.
+
+**Link to work:** 
+
+[PolySeq](https://github.com/mjrizzo22/PolySeq)
